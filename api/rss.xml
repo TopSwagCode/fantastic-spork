@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>TopSwagCode</title>
+<description>Blog </description>
+<link>https://github.com/topswagcode</link>
+<atom:link href="https://topswagcode.com/api/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<guid isPermaLink="true">https://topswagcode.com/blog/welcome</guid>
+<title>Welcome</title>
+<link>https://topswagcode.com/blog/welcome</link>
+<description>Hey there 👋 and welcome to our corner of the web!</description>
+<pubDate>Sat, 12 Apr 2025 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://topswagcode.com/blog/mdsvex-component-example</guid>
+<title>A Markdown post with a Svelte component</title>
+<link>https://topswagcode.com/blog/mdsvex-component-example</link>
+<description>This post demonstrates how to include a Svelte component in a Markdown post.</description>
+<pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://topswagcode.com/blog/syntax-highlighting-example</guid>
+<title>Syntax highlighting with mdsvex</title>
+<link>https://topswagcode.com/blog/syntax-highlighting-example</link>
+<description>This post shows you how syntax highlighting works here.</description>
+<pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
